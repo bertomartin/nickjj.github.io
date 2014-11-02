@@ -12,7 +12,7 @@ markdown: 'kramdown'
 highlighter: 'pygments'
 
 # ---- Site configuration ----
-domain:      'http://nickjj.github.io'
+domain:      'http://nickjanetakis.com'
 google_ua:   ''
 form_action:  '//forms.brace.io/nick.janetakis@gmail.com'
 phone_number: '(631) 397-0522'

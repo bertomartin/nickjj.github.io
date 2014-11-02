@@ -1,3 +1,3 @@
 ## nickjj.github.io
 
-Personal website: http://nickjj.github.io
+Hosting for personal website: http://nickjanetakis.com.
