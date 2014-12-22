@@ -14,7 +14,7 @@ highlighter: 'pygments'
 # ---- Site configuration ----
 domain:      'http://nickjanetakis.com'
 google_ua:   'UA-56321149-1'
-form_action:  '//forms.brace.io/nick.janetakis@gmail.com'
+form_action:  '//formspree.io/nick.janetakis@gmail.com'
 phone_number: '(631) 397-0522'
 title:       'Nick Janetakis - Full stack developer and marketing strategist'
 keywords:    'development, website, consulting, system admin, automation,
