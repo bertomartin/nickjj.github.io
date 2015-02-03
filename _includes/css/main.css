@@ -52,6 +52,9 @@ hr {
   text-align: center;
   padding: 0 4%;
 }
+.container h3 {
+  margin-bottom: 42px;
+}
 .container p, .container ol, .container ul {
   font-size: 17px;
   padding: 0 5%;
