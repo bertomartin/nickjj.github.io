@@ -1,6 +1,6 @@
 Nick Janetakis
 &mdash;
-Copyright &copy; 2014
+Copyright &copy; 2015
 
 <ul class="social-list">
   <li>
