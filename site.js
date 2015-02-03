@@ -82,7 +82,7 @@ $(document).ready(function (){
 	});
 
     //contact form
-    $("#contact-form-development, #contact-form-marketing").submit(function(event) {
+    $("#contact-form-development, #contact-form-marketing, #contact-form-hire-me").submit(function(event) {
 	event.preventDefault();
 	submitForm = this.id.split('-')[2];
 	emailField = $("#text-" + submitForm);
