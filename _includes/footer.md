@@ -9,4 +9,7 @@ Copyright &copy; 2015
   <li>
     <a href="https://twitter.com/nickjanetakis"><i class="fa fa-twitter fa-2x text-white"></i></a>
   </li>
+  <li>
+    <a href="https://www.linkedin.com/in/nickjj"><i class="fa fa-linkedin-square fa-2x text-white"></i></a>
+  </li>
 </ul>
