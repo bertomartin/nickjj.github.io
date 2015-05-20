@@ -223,10 +223,16 @@ nav ul li:hover, nav ul li.active {
   column-rule:         1px outset rgba(255, 255, 255, 0.5);
 }
 
+.social-list {
+  margin-top: 8px;
+}
 .social-list li {
   list-style-type: none;
   display: inline;
-  margin-right: 8px;
+  margin-right: 24px;
+}
+.social-list li:last-child {
+  margin-right: 0;
 }
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
