@@ -1,6 +1,7 @@
 ### What is this repo?
 
-This is my personal website that uses Jekyll 3 through GitHub pages.
+This is [my personal website](http://nickjanetakis.com) that uses Jekyll 3 through
+GitHub pages.
 
 ### What theme is it based off of?
 
