@@ -1,0 +1,34 @@
+# Dependencies
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+
+# Ignore these files when building the site
+exclude: ['CNAME', 'README.md', '.gitignore', 'Gemfile', 'Gemfile.lock', 'LICENSE']
+
+# URL
+url:     http://nickjanetakis.com
+baseurl: /
+
+# Author
+author:
+  name:         Nick Janetakis
+  tagline:      Developer &middot; Teacher &middot; Entrepreneur
+  email:        nick.janetakis@gmail.com
+  phone:        1 (631) 397-0522
+  twitter_url:  https://twitter.com/nickjanetakis
+  github_url:   https://github.com/nickjj
+  youtube_url:  https://www.youtube.com/channel/UCorzANoC3fX9VVefJHM5wtA
+  linkedin_url: https://www.linkedin.com/in/nickjj
+
+# Configuration
+copyright_start: 2015
+permalink:       /blog/:slug
+paginate:        5
+
+# Integrations
+integrations:
+  google_ua:        UA-56321149-1
+  disqus_shortname: nickjj
+  email_list:
+    nickjanetakis: nickjanetakis.us9.list-manage.com/subscribe/post?u=ed476286695fd77da0853a1a3&amp;id=d0304afda6

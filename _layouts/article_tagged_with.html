@@ -1,0 +1,32 @@
+---
+layout: default
+title: 'Blog archive by tag'
+---
+
+{% assign tag = site.data.tags[page.tag] %}
+
+<div class="page">
+  <h1 class="page-title">
+    Articles Tagged with <em>#{{ tag.name }}</em>
+  </h1>
+
+  {% include tag_filter.html %}
+
+  <a href="{{ site.baseurl }}blog/">Clear tag filter</a>
+
+  <hr>
+
+  <ul>
+    {% if site.tags[page.tag] %}
+      {% for post in site.tags[page.tag] %}
+        <li>
+          <small>
+            {{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a>
+          </small>
+        </li>
+      {% endfor %}
+    {% else %}
+      <li><small>There are no posts for this tag</small></li>
+    {% endif %}
+  </ul>
+</div>

@@ -1,0 +1,44 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.author.name }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.author.tagline }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      {% assign active_page = page.url | downcase | split: '/' %}
+      <a class="sidebar-nav-item{% if active_page[1] == 'courses' %} active{% endif %}" href="{{ site.baseurl }}courses">Courses</a>
+      <a class="sidebar-nav-item{% if active_page[3] == 'tutorial' %} active{% endif %}" href="{{ site.baseurl }}blog/tag/tutorial">Tutorials</a>
+      <a class="sidebar-nav-item{% if active_page[1] == 'blog' and active_page[3] == nil %} active{% endif %}" href="{{ site.baseurl }}blog">Blog</a>
+      <a class="sidebar-nav-item{% if active_page[1] == 'subscribe' %} active{% endif %}" href="{{ site.baseurl }}subscribe">Subscribe</a>
+      <a class="sidebar-nav-item{% if active_page[1] == 'ask-me-anything' %} active{% endif %}" href="{{ site.baseurl }}ask-me-anything">Ask Me Anything</a>
+
+      <p>
+        <a class="sidebar-nav-icons" href="mailto:{{ site.author.email }}">
+          {% icon fa-envelope-o %}
+        </a>
+        <a class="sidebar-nav-icons" href="{{ site.author.twitter_url }}" target="_blank">
+          {% icon fa-twitter %}
+        </a>
+        <a class="sidebar-nav-icons" href="{{ site.author.github_url }}" target="_blank">
+          {% icon fa-github %}
+        </a>
+        <a class="sidebar-nav-icons" href="{{ site.author.youtube_url }}" target="_blank">
+          {% icon fa-youtube %}
+        </a>
+        <a class="sidebar-nav-icons" href="{{ site.author.linkedin_url }}" target="_blank">
+          {% icon fa-linkedin %}
+        </a>
+        <a class="sidebar-nav-icons" href="{{ site.baseurl }}atom.xml" target="_blank">
+          {% icon fa-rss %}
+        </a>
+      </p>
+    </nav>
+
+    <img class="sidebar-mugshot sidebar-mugshot-border" src="{{ site.baseurl }}assets/img/nick-janetakis.jpg" height="100" width="100" alt="Nick Janetakis" />
+  </div>
+</div>

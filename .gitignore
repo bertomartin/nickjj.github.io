@@ -1,0 +1,33 @@
+# Standard
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.zip
+*.vi
+*~
+
+# Jekyll and GitHub pages
+_site/
+_gh_pages/
+
+# OS and editor files
+.DS_Store
+*/**.DS_Store
+._*
+.*.sw*
+*~
+.idea/
+.mr.developer.cfg
+.project
+.pydevproject
+*.tmproj
+*.tmproject
+tmtags
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools

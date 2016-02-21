@@ -1,0 +1,53 @@
+---
+layout: default
+title: Developer, Teacher and Entrepreneur
+excerpt:
+  I love learning about technology and then sharing what I've learned with others
+  in the form of courses, books, blog posts and open source projects.
+---
+
+<h1>Developer, Teacher and Entrepreneur</h1>
+<p>I love learning about technology and then sharing what I've learned with others
+  in the form of courses, books, blog posts and open source projects.</p>
+
+<h4>Accepting contract work?</h4>
+<p>Sure. In between courses I like to mix it up by taking on contracts. If you're
+  interested in hiring me, then <a href="{{ site.baseurl }}ask-me-anything">get to know me a bit</a>
+  or call {{ site.author.phone }}.</p>
+
+<h2 class="margin-top-lg underlined-title">
+  Latest Courses
+  <a href="{{ site.baseurl }}courses/" class="thin muted-small">(View all)</a>
+</h2>
+<div class="container">
+  <div class="columns one-half">
+    <a href="{{ site.baseurl }}courses/docker-for-devops-from-development-to-production">
+      <h5>Docker for DevOps: From Development to Production</h5>
+      <img class="responsive-image course-image" src="{{ site.baseurl }}assets/img/courses/docker-for-devops-from-development-to-production-thumb.jpg" width="320" height="150" alt="Docker for DevOps" />
+    </a>
+  </div>
+  <div class="columns one-half">
+  </div>
+</div>
+
+<h2 class="margin-top-lg underlined-title">
+  Latest Blog Posts
+  <a href="{{ site.baseurl }}blog/" class="thin muted-small">(View all)</a>
+</h2>
+{% for post in paginator.posts %}
+<div class="post latest">
+  <h4 class="post-title">
+    <a href="{{ post.url }}">
+      {{ post.title }}
+    </a>
+  </h1>
+
+  {% include tags_for_post.html %}
+
+  <span class="post-date post-date-latest">
+    {{ post.date | date_to_string }} {{ tags_content }}
+  </span>
+
+  {{ post.excerpt }}
+</div>
+{% endfor %}

@@ -1,0 +1,28 @@
+book:
+  name: Book
+flask:
+  name: Flask
+tutorial:
+  name: Tutorial
+course:
+  name: Course
+music:
+  name: Music
+bsawf:
+  name: BSAWF
+docker:
+  name: Docker
+devops:
+  name: DevOps
+diy:
+  name: DIY
+workspace:
+  name: Workspace
+javascript:
+  name: Javascript
+screencast:
+  name: Screencast
+webpack:
+  name: Webpack
+udemy:
+  name: Udemy
