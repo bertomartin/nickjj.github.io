@@ -23,7 +23,7 @@ Quite a lot. Off the top of my head, here's what I added or changed:
 - Responsive video and image CSS rules
 - A bunch of additions and changes to `_config.yml`
 
-### How would you everything on your site?
+### How would you use it on your site?
 
 You'd fork this repo and then make sure to change a lot of values in `_config.yml`.
 Obviously you'd want to delete my blog posts, other content and assets too.
