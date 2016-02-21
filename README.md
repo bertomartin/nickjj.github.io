@@ -19,7 +19,6 @@ Quite a lot. Off the top of my head, here's what I added or changed:
 - Support for blog tags
 - Support for a blog archive
 - An atom page
-- Font awesome icon liquid tags
 - Responsive video and image CSS rules
 - A bunch of additions and changes to `_config.yml`
 
