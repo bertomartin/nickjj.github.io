@@ -70,7 +70,7 @@ Learning by example is a great way to retain information and learn quickly.
 <p><em>
   "Even if you already went through the official Docker docs, this course will
   help you get your head straight. It starts at the real beginning and builds up
-  a full provisioning script is just pure awesomeness."
+  to a full provisioning script, which is just pure awesomeness."
 </em></p>
 <p class="muted margin-bottom-none">- Pedro Sousa</p>
 </div>
