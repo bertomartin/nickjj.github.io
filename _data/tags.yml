@@ -14,6 +14,8 @@ flask:
   name: Flask
 javascript:
   name: Javascript
+linux:
+  name: Linux
 music:
   name: Music
 screencast:
@@ -22,6 +24,8 @@ tutorial:
   name: Tutorial
 udemy:
   name: Udemy
+vmware:
+  name: vmware
 webpack:
   name: Webpack
 workspace:
