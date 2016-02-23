@@ -3,8 +3,8 @@ layout: post
 title: 'Create an Awesome Linux Development Environment in Windows with vmware'
 tags: [linux, vmware, screencast, tutorial]
 excerpt:
-  Learn exactly how to build a custom standing desk without being a handyman.
-  No saws required!
+  Set up a seamless Linux development environment in Windows using the free
+  version of vmware.
 ---
 
 <div class="video-container">
