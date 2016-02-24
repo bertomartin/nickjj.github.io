@@ -3,6 +3,9 @@ gems:
   - jekyll-gist
   - jekyll-paginate
 
+# Jekyll settings
+safe: true
+
 # Ignore these files when building the site
 exclude: ['CNAME', 'README.md', '.gitignore', 'Gemfile', 'Gemfile.lock', 'LICENSE']
 
