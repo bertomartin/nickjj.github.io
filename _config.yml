@@ -4,7 +4,9 @@ gems:
   - jekyll-paginate
 
 # Jekyll settings
-safe: true
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 # Ignore these files when building the site
 exclude: ['CNAME', 'README.md', '.gitignore', 'Gemfile', 'Gemfile.lock', 'LICENSE']
