@@ -20,6 +20,8 @@ music:
   name: Music
 screencast:
   name: Screencast
+security:
+  name: Security
 tutorial:
   name: Tutorial
 udemy:
