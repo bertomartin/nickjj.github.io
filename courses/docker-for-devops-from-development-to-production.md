@@ -152,7 +152,6 @@ practices that I've accumulated while working as a consultant.
 <p class="muted margin-bottom-none">- Kshitiz Mahajan</p>
 </div>
 
-
 #### What are the requirements?
 
 - A computer with at least 4GBs of RAM running Windows, OSX or Linux
@@ -162,7 +161,7 @@ practices that I've accumulated while working as a consultant.
 - Over 110 lectures and 7.5 hours of content!
 - Learn how to deploy web applications with Docker
 - Ability to serve your web app securely over SSL (HTTPS)
-- Apply with confidence for DevOps positions at software companies
+- Confidence to apply for DevOps positions at software companies
 
 #### What is the target audience?
 
