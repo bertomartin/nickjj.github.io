@@ -205,4 +205,5 @@ of a refund.
 
 I'll continue to use Udemy for current and future courses but I'm certainly
 branching out to using other platforms as well. Especially platforms that give
-me control over how I can interact with students.
+me control over how I can interact with students and more attractive
+revenue splitting percents.
