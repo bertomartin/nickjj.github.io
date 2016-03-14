@@ -13,10 +13,12 @@ layout: default
   {{ content }}
 </div>
 
-<hr>
+{% unless page.skip_subscribe %}
+  <hr>
 
-<h3>Subscribe today</h3>
-{% include subscribe.html %}
+  <h3>Subscribe today</h3>
+  {% include subscribe.html %}
+{% endunless %}
 
 <hr class="margin-bottom-lg">
 
