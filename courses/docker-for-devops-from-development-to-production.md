@@ -18,7 +18,7 @@ excerpt:
 
 <div class="center margin-top-md margin-bottom-md">
   <p class="small"><strong>Join over 1,000 students today</strong></p>
-    <a class="btn green" href="#ready-to-level-up">Ready to level up?</a>
+  <a class="btn green" href="#ready-to-level-up">Ready to level up?</a>
 </div>
 
 <div class="boxed small">
