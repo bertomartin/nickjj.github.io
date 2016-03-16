@@ -82,19 +82,14 @@ Instead, Udemy is going to run percent based promotions which will max out at
 50%. They didn't mention a low end, but chances are it will be in the 10-20%
 range for their own promotions to students.
 
-#### Finally, percent based coupons
+#### Why can't we have percent based coupons as instructors?
 
-A positive side effect of this is the removal of fixed price coupons. Instead,
-instructors will be able to provide percent based coupons.
+I still don't understand why they are forcing instructors to continue using
+fixed price coupons.
 
-This was another big issue I had with their platform previously because if you
-change your course's price, all fixed price coupons instantly become invalid.
-
-I'm happy to see that I will be able to create generic percent based discounts
-and if my course's price changes I don't have to re-do all my coupons.
-
-Oh and don't worry, you'll still be able to create 100% off coupons to offer
-your course for free.
+Their coupon UI is still really bad. It will take hours to update all of the
+old coupons due to this and the same problem will exist in the future if course
+owners want to change prices.
 
 ## I spoke to a Udemy human on the phone
 
