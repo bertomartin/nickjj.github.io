@@ -14,7 +14,6 @@ Want to ask me a question? No problem,
 <a href="mailto:{{ site.author.email }}">contact me by e-mail</a> with your question.
 
 #### Life
-- <a href="#when-did-you-start-working-with-computers">When did you start working with computers?</a>
 - <a href="#how-did-you-learn-everything-you-know">How did you learn everything you know?</a>
 
 #### Education
@@ -35,13 +34,6 @@ Want to ask me a question? No problem,
 - <a href="#do-you-only-work-remotely">Do you only work remotely?</a>
 - <a href="#would-you-be-willing-to-re-locate-for-a-job">Would you be willing to re-locate for a job?</a>
 - <a href="#whats-your-favorite-thing-about-consulting">What's your favorite thing about consulting?</a>
-
-### When did you start working with computers?
-I started back in the late 1990s. Computers back then were running Windows 95
-or Windows 98 and were Pentium I CPUs running at about 75mhz.
-
-I used to have a Geocities website. It had a lot of animated GIFs, including one
-where a stick figure was pee'ing on a "Best viewed with Internet Explorer" badge.
 
 ### How did you learn everything you know?
 Practice and a deep desire to actually learn the thing I'm actively learning.
@@ -118,8 +110,8 @@ that you're actively maintaining or is worth your time in some way or another.
 I tend to use what I feel like is the best tool for the job today. I've used
 vim, emacs, sublime, atom, visual studio and a few of IDEA's editors over the years.
 
-Lately I've been using atom as a general editor and I hardly think it's perfect
-but it does a reasonable job. If only it started up faster!
+Lately I've been using the open source version of visual studio as a general
+editor and it's pretty reasonable for a multi-purpose editor.
 
 Before I started Dockerizing everything I liked to use RubyMine and PyCharm for
 larger Ruby and Python projects. Now a days I don't use them because their Docker
