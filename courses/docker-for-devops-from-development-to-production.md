@@ -17,7 +17,7 @@ excerpt:
 </div>
 
 <div class="center margin-top-md margin-bottom-md">
-  <p class="small"><strong>Join over 1,000 students today</strong></p>
+  <p class="small"><strong>Join over 1,500 students today</strong></p>
   <a class="btn green" href="#ready-to-level-up">Ready to level up?</a>
 </div>
 
@@ -96,7 +96,7 @@ Learning by example is a great way to retain information and learn quickly.
 - Dealing with centralized logging
 - Looking into using various configuration management tools
 
-*You're getting all of that AND additional bonus lectures for just $49.*
+*You're getting all of that AND additional bonus lectures for just $25.*
 
 This course is jam packed with over 100 lectures, 7+ hours of videos and quizzes.
 You'll also receive full PDF text directions for each video lecture and complete
@@ -186,7 +186,7 @@ practices that I've accumulated while working as a consultant.
 
 Provide your e-mail address below to receive the following:
 
-- A <span class="underline">30% off coupon code</span> which brings the grand total to only $34
+- A <span class="underline">20% off coupon code</span> which brings the grand total to only $20
 - The full curriculum and a link to purchase the course
 
 <!-- Begin MailChimp Signup Form -->
