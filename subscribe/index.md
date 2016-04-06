@@ -7,3 +7,11 @@ excerpt:
 ---
 
 {% include subscribe.html %}
+
+---
+
+## Want to get updated when I release new blog posts?
+
+That's easy.
+Follow me on Twitter [@nickjanetakis]({{ site.author.twitter_url }}), or
+[subscribe to my RSS feed]({{ site.baseurl }}atom.xml).
