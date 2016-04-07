@@ -2,8 +2,6 @@ book:
   name: Book
 bsawf:
   name: BSAWF
-course:
-  name: Course
 devops:
   name: DevOps
 diy:
