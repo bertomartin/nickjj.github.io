@@ -8,6 +8,19 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for April 1st 2016
+12 sections and 67 lectures have been fully planned out. This includes course
+planning notes for myself, slides, and notes for students of the course.
+
+##### Update for April 9th 2016
+14 sections and 102 lectures have been fully planned out. At this point I have
+written 65,000 words of course planning notes.
+
+I would say I'm about 2/3rds of the way done coding the new demo application
+and planning everything out.
+
+---
+
 Honestly, this post is going to be pretty long. Go ahead and get something to
 drink, and carve out at least 15 minutes if you plan to read this in 1 sitting.
 
