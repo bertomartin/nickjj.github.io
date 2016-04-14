@@ -2,6 +2,8 @@ book:
   name: Book
 bsawf:
   name: BSAWF
+dev-environment:
+  name: Dev Environment
 devops:
   name: DevOps
 diy:

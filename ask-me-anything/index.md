@@ -108,14 +108,13 @@ that you're actively maintaining or is worth your time in some way or another.
 
 ### What editor do you use?
 I tend to use what I feel like is the best tool for the job today. I've used
-vim, emacs, sublime, atom, visual studio and a few of IDEA's editors over the years.
+vim, emacs, Sublime, Atom, Visual Studio and a few of IDEA's editors over the years.
 
-Lately I've been using the open source version of visual studio as a general
-editor and it's pretty reasonable for a multi-purpose editor.
-
-Before I started Dockerizing everything I liked to use RubyMine and PyCharm for
-larger Ruby and Python projects. Now a days I don't use them because their Docker
-support is really bad and honestly on-line documentation is good enough for me.
+After some bouncing around 
+[I'm back to using Sublime Text 3]({% post_url 2016-04-13-why-sublime-text-3-is-still-my-preferred-code-editor %})
+because as time goes on, I find myself working with many different languages
+and file types and I'm willing to give up context aware code complete to use
+1 editor.
 
 ### Are you a full stack developer?
 Depends on what your definition of that is. I wouldn't consider myself an artist
