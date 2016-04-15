@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Alpine based Docker images make a difference in real world apps'
+title: 'Alpine Based Docker Images Make a Difference in Real World Apps'
 tags: [docker]
 excerpt:
   We all know that Alpine based Docker images are smaller, but how much does it
