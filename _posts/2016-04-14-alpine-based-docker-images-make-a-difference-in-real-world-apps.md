@@ -156,14 +156,15 @@ increase only happens when you change your app's package dependencies.
 For typical code changes which is what 99% of your changes will be, the build
 time will be nearly identical with both versions.
 
-### Is Alpine worth it?
-
 Is it worth the occasional build time increases to ship around a 117MB image
 instead of one that's over 300MB? That's for you to decide, but I think it is.
 
-I'm really happy with Alpine, and you can expect the official Docker Hub
-versions of many images to support it in the near future.
+### Is Alpine worth it?
 
-For example,
+I'm very happy with Alpine and will certainly be updating all of my projects to
+use it.
+
+You can also expect the official Docker Hub versions of many images to support
+it in the near future.
 <a target="_blank" href="https://hub.docker.com/_/redis/">Redis already has an
 Alpine version</a> and it's only **~16MB**.
