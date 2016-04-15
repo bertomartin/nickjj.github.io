@@ -13,11 +13,12 @@ typically pulls in from the official Python or Ruby images on the Docker Hub.
 Up until recently, you only had 3 choices as a base OS. You could choose to use
 Jessie, Wheezy or Slim. However, now you can also choose Alpine as a base.
 
-I imagine most people used the slim variant, and then installed things like
+I imagine most people used the Slim variant, and then installed things like
 `build-essential` in their `Dockerfile` if they needed it to compile libraries
 that their app's packages use.
 
-Today I tried out Alpine and here's the results.
+In this post you're going to see how Alpine compares to Debian Jessie (Slim)
+and also learn how to optimize the Alpine version even more.
 
 ### What's considered a real world application?
 
@@ -41,7 +42,13 @@ That's a huge win. The **final image is ~33% smaller** and all I did was switch
 the base image and then spent 5 minutes learning how to use Alpine's package
 manager.
 
-### `Dockerfile` comparison
+That's only the beginning too because **we can shrink it down by an additional
+~260%** by introducing a few tricks into our `Dockerfile`.
+
+### Phase 1 Dockerfile comparison
+
+Phase 1 is a direct comparison of Debian Jessie (Slim) vs Alpine with no
+additional tricks to minimize the final image size.
 
 ##### The Slim version
 
@@ -89,17 +96,74 @@ CMD gunicorn -b 0.0.0.0:8000 --access-logfile - "bsawf.app:create()"
 In this case, I need `libffi-dev` to compile a bcrypt package dependency and
 `libpq-dev` is for postgresql.
 
-The Alpine image also has some room to improve because I'm pretty sure the
-`postgresql-dev` package is pulling in a lot more than `libpq-dev` on Debian.
+### Phase 2 Alpine based Dockerfile
 
-### Room to improve?
+At the moment, the Alpine version is 33% smaller but what happens when someone
+with more knowledge on Alpine than myself looks at it for a few minutes?
 
-Probably. I didn't bother hunting down the specific dependencies needed to
-compile the postgresql and bcrypt related libraries.
+That's what happened today when 
+<a target="_blank" href="https://twitter.com/n_copa/status/720954662954905600">@n_copa reached out to me on Twitter</a>
+and gisted a new version of the `Dockerfile`.
 
-Using `build-essential` and `build-base` is a safe bet because they include
-pretty much everything you'd need to compile most packages.
+```sh
+FROM python:2.7-alpine
+MAINTAINER Nick Janetakis <nick.janetakis@gmail.com>
 
-Overall I'd say using an Alpine based image is well worth it. It doesn't take
-long to track down the `apk` version of popular `apt` packages and the savings
-is huge.
+ENV INSTALL_PATH /bsawf
+RUN mkdir -p $INSTALL_PATH
+
+WORKDIR $INSTALL_PATH
+
+COPY requirements.txt requirements.txt
+RUN apk add --no-cache --virtual .build-deps \
+  build-base postgresql-dev libffi-dev \
+    && pip install -r requirements.txt \
+    && find /usr/local \
+        \( -type d -a -name test -o -name tests \) \
+        -o \( -type f -a -name '*.pyc' -o -name '*.pyo' \) \
+        -exec rm -rf '{}' + \
+    && runDeps="$( \
+        scanelf --needed --nobanner --recursive /usr/local \
+                | awk '{ gsub(/,/, "\nso:", $2); print "so:" $2 }' \
+                | sort -u \
+                | xargs -r apk info --installed \
+                | sort -u \
+    )" \
+    && apk add --virtual .rundeps $runDeps \
+    && apk del .build-deps
+
+COPY . .
+
+CMD gunicorn -b 0.0.0.0:8000 --access-logfile - "bsawf.app:create()"
+```
+
+The above `Dockerfile` dropped the final image size from **309.1MB** to
+**117.3MB**.
+
+That's **~260%** smaller than the original Alpine image. It's not fair to compare
+it against the Debian Jessie (Slim) version because we're not cleaning up our
+compile-time dependencies, but it's **~400%** smaller as is.
+
+#### What's the catch?
+
+The biggest downside is every time you change a package in your application, it
+will have to run through the entire `apk add` command which means all of the
+system dependencies will be re-installed.
+
+This is going to add a few minutes to your build times, but remember -- this
+increase only happens when you change your app's package dependencies.
+
+For typical code changes which is what 99% of your changes will be, the build
+time will be nearly identical with both versions.
+
+### Is Alpine worth it?
+
+Is it worth the occasional build time increases to ship around a 117MB image
+instead of one that's over 300MB? That's for you to decide, but I think it is.
+
+I'm really happy with Alpine, and you can expect the official Docker Hub
+versions of many images to support it in the near future.
+
+For example,
+<a target="_blank" href="https://hub.docker.com/_/redis/">Redis already has an
+Alpine version</a> and it's only **~16MB**.
