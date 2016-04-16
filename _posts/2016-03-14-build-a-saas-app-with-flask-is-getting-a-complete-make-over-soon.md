@@ -19,6 +19,14 @@ written 65,000 words of course planning notes.
 I would say I'm about 2/3rds of the way done coding the new demo application
 and planning everything out.
 
+##### Update for April 16th 2016
+The "game" component of the application has been fully coded. There's 17 sections
+at the moment and I think there's only going to be 2 or 3 more sections total.
+
+During this last week I made a decision to remove Vagrant entirely, and also
+came up with an awesome new way of writing course notes, so most of this
+upcoming week will be refactoring old sections and notes.
+
 ---
 
 Honestly, this post is going to be pretty long. Go ahead and get something to
@@ -178,15 +186,9 @@ even exist so I feel like this is a good compromise.
 
 #### The primary focus of BSAWF will now be learning Flask
 
-It will still use Docker in development, but I'm going to likely abstract it all
-away inside of a Vagrant driven virtual machine.
-
-This will also make setting things up much easier for you, since anyone who has
-been through the BSAWF screencasts knows that the initial set up was by far the
-most annoying part.
-
-Quite frankly, nothing about the course should be annoying, so this change is a
-step in the right direction IMO.
+It will still use Docker in development, but it's going to be done a lot better
+than the current way. I'm estimating you'll be able to get set up in 5 minutes
+or less and be able to edit the source code in the comfort of your own OS.
 
 #### What about webpack, that's not a primary focus of Flask, is it staying?
 
@@ -260,7 +262,7 @@ completing the main story, but likely have a lot of valuable goodies associated
 to doing them.
 
 All of these side quests are going to be either free content for everyone, or
-free for existing students because I'm going to give you 100% off coupons.
+free for existing students because I'm going to give you 100% off coupons.need to 
 
 #### Will catwatch be changed to a different type of application?
 
