@@ -262,7 +262,7 @@ completing the main story, but likely have a lot of valuable goodies associated
 to doing them.
 
 All of these side quests are going to be either free content for everyone, or
-free for existing students because I'm going to give you 100% off coupons.need to 
+free for existing students because I'm going to give you 100% off coupons. 
 
 #### Will catwatch be changed to a different type of application?
 
