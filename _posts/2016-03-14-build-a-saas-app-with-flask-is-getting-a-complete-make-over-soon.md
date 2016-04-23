@@ -27,6 +27,16 @@ During this last week I made a decision to remove Vagrant entirely, and also
 came up with an awesome new way of writing course notes, so most of this
 upcoming week will be refactoring old sections and notes.
 
+##### Update for April 23rd 2016
+All of the refactoring from the previous week's update is done and I also added
+the last big feature of the app which was to handle processing microtransactions.
+
+My TODO list is quickly shrinking. There's about 10 short lectures left to go
+and everything will be accounted for. I also need to make the app compatible
+with Python 3 because I want it to work for both Python 2 and 3.
+
+Once that's complete, then I can start producing everything from top to bottom.
+
 ---
 
 Honestly, this post is going to be pretty long. Go ahead and get something to
