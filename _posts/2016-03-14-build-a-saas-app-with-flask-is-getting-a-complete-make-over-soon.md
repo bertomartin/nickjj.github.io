@@ -8,24 +8,21 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
-##### Update for April 1st 2016
-12 sections and 67 lectures have been fully planned out. This includes course
-planning notes for myself, slides, and notes for students of the course.
+##### Update for April 29th 2016
 
-##### Update for April 9th 2016
-14 sections and 102 lectures have been fully planned out. At this point I have
-written 65,000 words of course planning notes.
+The course is fully planned out. Here's some stats:
 
-I would say I'm about 2/3rds of the way done coding the new demo application
-and planning everything out.
+- Full compatibility with Python 2 and Python 3
+- 21 sections and 156 video lectures
+- 15 sections worth of building the app up in stages
+- ~4,250 lines of Flask related code (not counting blank lines / comments)
+- 108 pages worth of PDF notes that you can reference
+- ~97,000 words of course planning notes for myself to help narrate the content
 
-##### Update for April 16th 2016
-The "game" component of the application has been fully coded. There's 17 sections
-at the moment and I think there's only going to be 2 or 3 more sections total.
+All in all, the above took about 5 weeks to do. I imagine it will be at least
+another 5 weeks to record/produce everything but it's too soon to say.
 
-During this last week I made a decision to remove Vagrant entirely, and also
-came up with an awesome new way of writing course notes, so most of this
-upcoming week will be refactoring old sections and notes.
+One thing is for sure, I'm happy to be at the point where I can start recording.
 
 ##### Update for April 23rd 2016
 All of the refactoring from the previous week's update is done and I also added
@@ -36,6 +33,25 @@ and everything will be accounted for. I also need to make the app compatible
 with Python 3 because I want it to work for both Python 2 and 3.
 
 Once that's complete, then I can start producing everything from top to bottom.
+
+##### Update for April 16th 2016
+The "game" component of the application has been fully coded. There's 17 sections
+at the moment and I think there's only going to be 2 or 3 more sections total.
+
+During this last week I made a decision to remove Vagrant entirely, and also
+came up with an awesome new way of writing course notes, so most of this
+upcoming week will be refactoring old sections and notes.
+
+##### Update for April 9th 2016
+14 sections and 102 lectures have been fully planned out. At this point I have
+written 65,000 words of course planning notes.
+
+I would say I'm about 2/3rds of the way done coding the new demo application
+and planning everything out.
+
+##### Update for April 1st 2016
+12 sections and 67 lectures have been fully planned out. This includes course
+planning notes for myself, slides, and notes for students of the course.
 
 ---
 
