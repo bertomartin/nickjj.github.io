@@ -51,6 +51,7 @@ Up until now, you've learned everything in a sandbox environment.
 - [I want to show the world my app](#i-want-to-show-the-world-my-app)
 - [Switching web hosts](#switching-web-hosts)
 - [Configuration management tools](#configuration-management-tools)
+- [Deploys occasionally fail for reasons I cannot control](#deploys-occasionally-fail-for-reasons-i-cannot-control)
 - [My website just got hacked](#my-website-just-got-hacked)
 - [It's been a long road and I want to help my friend](#its-been-a-long-road-and-i-want-to-help-my-friend)
 - [Is there a better way?](#is-there-a-better-way)
@@ -268,6 +269,14 @@ wanting to create new servers with certain software installed and configured.
 
 *Chances are this section alone was months of real life time.*
 
+### Deploys occasionally fail for reasons I cannot control
+
+Well this stinks. Every once in a while when I deploy a new version of my app
+RubyGems or an apt mirror times out and the entire deploy fails.
+
+I wish there was a way I could somehow package my gems up in such a way that
+I don't have to build them at deploy time.
+
 ### My website just got hacked
 
 Well, that sucked. I guess my server wasn't very secure because I woke up today
@@ -330,7 +339,7 @@ There has to be a catch right? There's always a catch!
 I went to my buddy's place and told him about Docker. We installed it on OSX
 together.
 
-<p class="underline small">2 hour (240 total) spent on research</p>
+<p class="underline small">2 hours (240 total) spent on research</p>
 
 It wasn't as easy as Linux and it was definitely different, but it wasn't bad
 at all compared to the alternatives.
@@ -340,7 +349,7 @@ improved in the future by [allowing Docker to run natively on those platforms](h
 
 ### Converting my Rails app to use Docker
 
-<p class="underline small">20 hour (260 total) spent on research</p>
+<p class="underline small">20 hours (260 total) spent on research</p>
 
 There was a lot to take in but I converted my app. I'm now able to spin up the
 entire app in about 2 seconds and shut it down at will.
@@ -355,7 +364,7 @@ source my app. I just need to solve the production problem now.
 
 ### Docker works in production too
 
-<p class="underline small">10 hour (270 total) spent on research</p>
+<p class="underline small">10 hours (270 total) spent on research</p>
 
 Well, I'll be damned. After a long day I had everything "Dockerized" in production,
 but the big win here is if I changed hosts or had to bring up a new server, I
