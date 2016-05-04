@@ -78,7 +78,7 @@ Linux but I don't like it, it's slow and it runs in a small window.
 seamless/unity mode or how to properly configure a VM.*
 
 *If you want to learn how, check out my post on 
-[how to create an awesome Linux development environment](http://localhost:4000/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware){:target="_blank"}*.
+[how to create an awesome Linux development environment](/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware){:target="_blank"}*.
 
 ### Time for a new laptop
 
@@ -157,7 +157,7 @@ planned.
 ### Wait, Virtual Machines are actually good?
 
 Since I have a laptop, I've been hanging out at Starbucks recently and also
-grew a mustache. While twirling my mustache I came across [this post](http://localhost:4000/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware){:target="_blank"}
+grew a mustache. While twirling my mustache I came across [this post](/blog/create-an-awesome-linux-development-environment-in-windows-with-vmware){:target="_blank"}
 and it changed my opinion on VMs.
 
 Luckily it's only been 2 weeks, and the laptop can still be returned but I need
