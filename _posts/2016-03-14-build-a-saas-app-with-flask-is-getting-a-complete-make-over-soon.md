@@ -8,6 +8,22 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for May 6th 2016
+
+The first 8 sections of the course have been recorded, but that doesn't mean I
+am over a third of the way done. The earlier sections have a lot less content
+than the later sections.
+
+I've released the
+[Is Flask Right for You?]({% post_url 2016-05-05-build-a-saas-app-with-flask-free-sample-videos %})
+section for free which you can view now.
+
+Also, in case you missed it, here's 2 blog posts that came out of extracting
+content from the first iteration of BSAWF:
+
+- [Save Yourself from Years of Turmoil by Using Docker Today]({% post_url 2016-05-02-save-yourself-from-years-of-turmoil-by-using-docker-today %})
+- [25 Sublime Text 3 Packages for Polyglot Programmers]({% post_url 2016-04-13-25-sublime-text-3-packages-for-polyglot-programmers %})
+
 ##### Update for April 29th 2016
 
 The course is fully planned out. Here's some stats:
