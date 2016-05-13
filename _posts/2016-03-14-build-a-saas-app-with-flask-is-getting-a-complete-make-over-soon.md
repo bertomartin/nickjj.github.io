@@ -8,6 +8,18 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for May 13th 2016
+
+Sections 9 through 14 have been recorded which leaves 7 more sections to go.
+
+So far I've recorded 85 lectures but there's still 70 left to record.
+
+The last 70 lectures have a lot of fairly long lectures so despite having complete
+14 of 21 sections I'd say at this point I'm about half way done recording.
+
+There's way more content than anticipated but I was able to record 85 lectures
+in 2 weeks so I think I should be able to finish the rest in about 3 weeks.
+
 ##### Update for May 6th 2016
 
 The first 8 sections of the course have been recorded, but that doesn't mean I
