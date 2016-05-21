@@ -8,6 +8,28 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for May 21st 2016
+
+Sections 15 through 17 are done. That was 41 lectures total.
+
+Here's my TODO list until completion:
+
+- Record and edit 31 lectures spread across 3 more sections
+- Render all of the videos (this can be done while sleeping)
+- Assemble the entire course on Udemy
+- Create quizzes for each section
+- Triple check the notes for typos / grammar mistakes
+- Write the course landing page text for Udemy and this site
+- Create a ~2 minute intro video
+- Create a high quality course cover art image
+
+I am confident I can do all of the videos by next week and everything else will
+take about another week. Then it's a ~3 business day wait for Udemy to
+review the course until it's live.
+
+In next week's update I will have had rendered all of the videos so I'll share
+the total length of the course in hours.
+
 ##### Update for May 13th 2016
 
 Sections 9 through 14 have been recorded which leaves 7 more sections to go.
