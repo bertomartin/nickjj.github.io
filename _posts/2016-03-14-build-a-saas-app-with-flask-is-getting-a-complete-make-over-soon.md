@@ -8,6 +8,21 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for May 28th 2016
+
+All of the main course's videos are now done and rendered. There's 9 hours and
+45 minutes of content.
+
+Here's what left to do on the TODO list:
+
+- Create quizzes for each section
+- Triple check the notes for typos / grammar mistakes
+- Write the course landing page text for Udemy and this site
+- Create a ~2 minute intro video
+
+It will be a few days to complete the above, then it's up to Udemy to accept
+and publish the course which will take anywhere from 3-5 days.
+
 ##### Update for May 21st 2016
 
 Sections 15 through 17 are done. That was 41 lectures total.
