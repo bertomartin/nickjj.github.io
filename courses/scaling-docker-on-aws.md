@@ -70,6 +70,14 @@ hook up a domain name to a load balancer and secure it with a free SSL certifica
 main goal -- which is to get you comfortable scaling your web apps with
 Docker on AWS.
 
+<div class="boxed small">
+<p><em>
+  "Excellent teacher and great material - easy to follow and informative. I
+  especially like the hands-on labs."
+</em></p>
+<p class="muted margin-bottom-none">- Israel Roth</p>
+</div>
+
 #### Here's what you'll get when you sign up to my course today:
 
 - You'll learn how to get your development environment set up to run Docker. Windows, Mac and Linux users will be able to follow along.
@@ -90,6 +98,15 @@ This course is jam packed with over 60 lectures, 6+ hours of videos and quizzes.
 You'll also receive full PDF text directions for each video lecture and complete
 source code examples.
 
+<div class="boxed small">
+<p><em>
+  "This training is great to start using ECS on AWS. It's very clear and the
+  instructor explains really well the concepts of both, Docker and AWS and how
+  they work together."
+</em></p>
+<p class="muted margin-bottom-none">- Mario Medina</p>
+</div>
+
 #### Why is it worth using Docker?
 
 - Saves a ton of time and headaches when setting up development environments.
@@ -108,6 +125,14 @@ source code examples.
 - Avoid having to manage the low level details of your infrastructure.
 - Many companies are hiring people with AWS experience.
 - You can try it out for free for an entire year.
+
+<div class="boxed small">
+<p><em>
+  "What I loved most about this course was that I could tell how much thought
+  Nick put into arranging the labs and resources."
+</em></p>
+<p class="muted margin-bottom-none">- Ammar Mian</p>
+</div>
 
 #### Why is this course for you?
 
@@ -137,6 +162,13 @@ examples that you can reference for life.
 - Anyone who wants to deploy a web application in an automated way
 - Anyone who wants to scale their web application to multiple servers
 - Anyone who wants to further their career by improving their DevOps skills
+
+<div class="boxed small">
+<p><em>
+  "He has a lot of insight that he shares throughout. Really, a useful course."
+</em></p>
+<p class="muted margin-bottom-none">- Jeffrey James</p>
+</div>
 
 # Start your journey
 ---
