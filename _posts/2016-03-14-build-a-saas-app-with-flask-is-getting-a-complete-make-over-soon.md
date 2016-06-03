@@ -13,7 +13,7 @@ excerpt:
 All of the main course's videos are now done and rendered. There's 9 hours and
 45 minutes of content.
 
-Here's what left to do on the TODO list:
+Here's what's left to do on the TODO list:
 
 - Create quizzes for each section
 - Triple check the notes for typos / grammar mistakes
