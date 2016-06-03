@@ -8,6 +8,19 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+##### Update for June 3rd 2016
+
+Everything from last week is complete and I have submit the course for review.
+
+I'm looking to release it Monday, which is June 6th and just as a reminder,
+people who are signed up to get notified will receive a limited time discount.
+
+All you have to do is scroll down to the bottom of this page and put in your
+e-mail address. When I send out the release notification, you'll be rewarded
+with a MASSIVE discount.
+
+This will be the last weekly update for this post. See ya in the course's forums!
+
 ##### Update for May 28th 2016
 
 All of the main course's videos are now done and rendered. There's 9 hours and
