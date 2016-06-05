@@ -862,15 +862,11 @@ input {
 }
 
 /* Mailchimp */
-.mc-field-group .blogbutton {
-    position: absolute;
-    top: 14px;
-    width: 70% !important;
+.mc-field-group input {
     padding: 7px !important;
-}
-
-.mc-field-group input.required {
-    width: 30% !important;
+    margin-right: 4px;
+    height: 42px;
+    width: 30%;
     float: left;
     display: inline-block;
 }
@@ -958,4 +954,11 @@ input {
 @media (max-width: 58em) {
   .half { width: 100%; padding-right: 0; }
   .latest { font-size: 100%; }
+
+  .mc-field-group input {
+    float: none;
+    display: block;
+    margin-bottom: 4px;
+    width: 50%;
+  }
 }

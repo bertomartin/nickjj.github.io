@@ -1,5 +1,7 @@
 ---
 layout: default
+email_list_ref: 'bsawf'
+email_list_label: 'Get Your Coupon'
 title: 'Build a SAAS App with Flask'
 excerpt:
   Learn how to build a production ready web app with Flask and Docker. Level up
@@ -174,32 +176,13 @@ that's 100% RISK FREE. If you don't love the course then I insist you get a
 
 <a name="become-a-flask-master"></a>
 
-Provide your e-mail address below to receive the following:
+Sign up below to receive the following:
 
 - A <span class="underline">20% off coupon code</span> which brings the grand total to only $32
-- The full curriculum and a link to purchase the course
+- The full curriculum and instant access to the course
 
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="margin-top-md">
-<form action="//nickjanetakis.us9.list-manage.com/subscribe/post?u=ed476286695fd77da0853a1a3&amp;id=415b3f490b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-
-<div class="mc-field-group">
-    <input type="email" placeholder="Enter e-mail address..." value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_ed476286695fd77da0853a1a3_415b3f490b" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Get Your Coupon" name="subscribe" id="mc-embedded-subscribe" class="input inline btn orange"></div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
+{% include subscribe.html %}
 
 <p class="really-small really-muted margin-top-md">
   You may also receive occasional promotions for future courses that I release.
-  <br />
-  If this annoys you then you will be able to un-subscribe with 1 click.
 </p>

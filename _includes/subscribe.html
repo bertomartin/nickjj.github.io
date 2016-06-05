@@ -1,37 +1,22 @@
-<p>When you sign up, I'll occasionally send you:</p>
-
-<ul>
-  <li>Coupon codes for my courses</li>
-  <li>Updates when I release new courses</li>
-  <li>Updates when I release high quality free content</li>
-</ul>
-
-<p class="margin-bottom-lg">
-  <strong>
-    Don't worry, I won't be spamming you every time I release a new blog post.
-  </strong>
-</p>
-
 <!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="margin-top-md">
-<form action="//{{ site.integrations.email_list.nickjanetakis }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  <div id="mc_embed_signup" class="margin-top-md">
+  <form action="{{ site.integrations.email_list.url }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
-<div class="mc-field-group">
-    <input type="email" placeholder="Enter e-mail address..." value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
+    <div class="mc-field-group">
+        <input type="name" placeholder="Name" value="" name="FNAME" class="required" id="mce-FNAME">
+    </div>
+    <div class="mc-field-group">
+        <input type="email" placeholder="Email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+    </div>
+    <input type="hidden" name="REF" id="REF" value="{{ layout.email_list_ref | default: page.email_list_ref }}" />
     <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>
     </div>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_ed476286695fd77da0853a1a3_d0304afda6" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="input inline btn orange"></div>
+    <div style="position: absolute; left: -5000px;"><input type="text" name="{{ site.integrations.email_list.uid }}" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="{{ page.email_list_label | default: 'Subscribe' }}" name="subscribe" id="mc-embedded-subscribe" class="input inline btn orange"></div>
     </div>
-</form>
-</div>
+  </form>
+  </div>
 <!--End mc_embed_signup-->
-
-<p class="really-small really-muted margin-top-md">
-  If you decide you no longer want to subscribe you can easily un-subscribe by
-  clicking 1 link in the last e-mail you received.
-</p>
