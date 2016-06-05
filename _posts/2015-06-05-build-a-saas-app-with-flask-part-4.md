@@ -7,6 +7,17 @@ excerpt:
   part series.
 ---
 
+---
+
+<div class="center margin-top-md margin-bottom-md">
+  <h2>This post is very outdated</h2>
+  <a class="btn green" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+    Check out version 2 of this course!
+  </a>
+</div>
+
+---
+
 The source code can be found here:  
 [http://github.com/nickjj/build-a-saas-app-with-flask](http://github.com/nickjj/build-a-saas-app-with-flask)
 

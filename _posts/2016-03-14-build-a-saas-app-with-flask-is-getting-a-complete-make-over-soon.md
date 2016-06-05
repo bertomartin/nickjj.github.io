@@ -8,6 +8,15 @@ excerpt:
   learn what will change and get notified when it's out.
 ---
 
+---
+
+<div class="center margin-top-md margin-bottom-md">
+  <h2>The course is now live!</h2>
+  <a class="btn green" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">Become a Flask Master</a>
+</div>
+
+---
+
 ##### Update for June 3rd 2016
 
 Everything from last week is complete and I have submit the course for review.
@@ -165,9 +174,8 @@ Yep, this post is so long that it needed a TOC haha.
 During the summer of 2015 I decided I wanted to concentrate my efforts on
 creating online learning solutions.
 
-The first set of screencasts I made was
-<a target="_blank" href="https://buildasaaswithflask.com/">Build a SAAS App with Flask</a>
-and I eventually released that in August 2015.
+The first set of screencasts I made was Build a SAAS App with Flask and I
+eventually released that in August 2015.
 
 It was the first time I ever tried producing something like that. The whole
 experience of creating a course, editing video and recording audio was new to
@@ -234,14 +242,15 @@ There were times where I repeated the same phrase 10 times just to make sure it
 came out correct. There's very few hard cuts in the course where it's obvious I
 cut something out.
 
+The production quality was better and at the moment it has thousands of students
+and over a hundred 5 star reviews.
+
 #### I've been working on a third course too
 
 For the last few months I've been working on a follow up Docker course that will
-go into great detail on how to scale a web application to multiple hosts with
-Docker.
-
-It's not out yet, but it will be out very soon. I'm basically just waiting for
-my publisher because the content itself has been ready for weeks.
+go into great detail on how to 
+<a target="_blank" href="{{ site.baseurl }}courses/scaling-docker-on-aws">
+scale a web application to multiple hosts with Docker on AWS</a>.
 
 #### What does this have to do with Build a SAAS App with Flask?
 
@@ -536,33 +545,7 @@ next version of Build a SAAS App with Flask.
 
 There will very likely be new additions as I start planning it all out.
 
-If you're not already a student then I recommend signing up below to get notified
-when it's out.
-
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup" class="margin-top-md">
-<form action="//nickjanetakis.us9.list-manage.com/subscribe/post?u=ed476286695fd77da0853a1a3&amp;id=b99ea8a9fb" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-
-<div class="mc-field-group">
-    <input type="email" placeholder="Enter e-mail address..." value="" name="EMAIL" class="required email" id="mce-EMAIL">
+<div class="center margin-top-md margin-bottom-md">
+  <h2>Update: The course is now live!</h2>
+  <a class="btn green" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">Become a Flask Master</a>
 </div>
-    <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-    </div>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_ed476286695fd77da0853a1a3_b99ea8a9fb" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Get notified" name="subscribe" id="mc-embedded-subscribe" class="input inline btn orange"></div>
-    </div>
-</form>
-</div>
-<!--End mc_embed_signup-->
-
-<br>
-
-It's going to take you from being a novice with Flask to being comfortable
-developing a production grade non-trivial Flask application that accepts
-recurring payments and much more.
-
-I'll be including a dedicated course page with all of the details once the course
-is ready to be consumed.

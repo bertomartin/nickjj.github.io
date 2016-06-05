@@ -7,6 +7,17 @@ excerpt:
   part series.
 ---
 
+---
+
+<div class="center margin-top-md margin-bottom-md">
+  <h2>This post is very outdated</h2>
+  <a class="btn green" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+    Check out version 2 of this course!
+  </a>
+</div>
+
+---
+
 Today I decided to publish the first version of the source code for the Build
 a SAAS App with Flask course. It is the same project that was
 <a target="_blank" href="https://www.kickstarter.com/projects/nickjj/build-a-saas-app-with-flask-and-deploy-it-with-doc/description">funded on Kickstarter</a>.

@@ -459,5 +459,5 @@ Check out my Docker related courses:
 ##### Are you a Python developer interested in Docker?
 
 The
-[Build a SAAS App with Flask]({% post_url 2016-03-14-build-a-saas-app-with-flask-is-getting-a-complete-make-over-soon %})
-course will also use Docker in development.
+[Build a SAAS App with Flask]({{ site.baseurl }}courses/build-a-saas-app-with-flask)
+course also uses Docker in development.

@@ -14,7 +14,8 @@ excerpt:
 I want to create an online course that teaches developers how to use Docker.
 
 Like my previous course
-<a target="_blank" href="https://buildasaaswithflask.com/">Build a SAAS app with Flask</a>
+<a target="_blank" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+  Build a SAAS app with Flask</a>
 it will be packed with knowledge that I've obtained while working as a developer
 and consultant for years. It will cover a lot of ground.
 
@@ -29,8 +30,9 @@ and consultant for years. It will cover a lot of ground.
 
   <div class="columns two-thirds">
     <p>Backers will be able to receive the course for 75%+ off and have an opportunity
-    to get my other <a target="_blank" href="https://buildasaaswithflask.com/">Build
-    a SAAS app with Flask</a> course at a tremendous discount.</p>
+    to get my other 
+    <a target="_blank" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+      Build a SAAS app with Flask</a> course at a tremendous discount.</p>
 
     <p>You'll be able to follow step by step regardless of what operating system you
     use. There will also be an example app provided in Flask and Ruby on Rails so

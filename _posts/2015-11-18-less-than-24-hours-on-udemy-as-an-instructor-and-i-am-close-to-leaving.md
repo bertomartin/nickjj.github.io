@@ -24,8 +24,8 @@ battling their platform, here's what I've learned from that experience.
 ## Short recap of the courses I've created recently
 
 Back in June 2015 I ran my first Kickstarter for the
-<a target="_blank" href="https://buildasaaswithflask.com/">Build a SAAS app with Flask</a>
-screencast series.
+<a target="_blank" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+  Build a SAAS app with Flask</a> course.
 
 I went ahead and created my own makeshift course hosting platform while also
 creating the course itself at the same time, and in the end everything went

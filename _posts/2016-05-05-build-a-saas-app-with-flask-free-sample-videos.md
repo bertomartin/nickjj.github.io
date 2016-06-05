@@ -7,11 +7,16 @@ excerpt:
   a Flask master after going through hours of self-paced videos.
 ---
 
-The Build a SAAS App With Flask course is in the process of being updated. Here
-are a few free samples from this upcoming version:
+The Build a SAAS App with Flask course is available as we speak, so I recommend
+[checking out its course page on my site]({{ site.baseurl }}courses/build-a-saas-app-with-flask).
 
-If you want to learn more about this course or sign up to get notified when it's
-available, [check out this post where I am regularly updating my progress]({% post_url 2016-03-14-build-a-saas-app-with-flask-is-getting-a-complete-make-over-soon %}).
+This post lists out all of the free videos that are available from the course:
+
+The following video is part of the *Application Overview* section:
+
+##### Going over the Demo App That We'll Build
+
+<iframe width="720" height="405" src="#" frameborder="0"></iframe>
 
 The following 5 videos are from the *Is Flask Right for You?* section:
 
@@ -35,5 +40,11 @@ The following 5 videos are from the *Is Flask Right for You?* section:
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/DUpAHuARH14?rel=0&iv_load_policy=3" frameborder="0"></iframe>
 
-Build a SAAS App With Flask is a full blown course that will transform you into
-a Flask master after going through hours of self-paced videos.
+---
+
+Learn how to build a production ready web app with Flask and Docker. Level up
+and win that dream software developer job.
+
+<a class="btn green" href="{{ site.baseurl }}courses/build-a-saas-app-with-flask">
+  Become a Flask Master
+</a>
