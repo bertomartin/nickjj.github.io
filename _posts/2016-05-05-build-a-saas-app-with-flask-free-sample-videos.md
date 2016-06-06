@@ -16,7 +16,7 @@ The following video is part of the *Application Overview* section:
 
 ##### Going over the Demo App That We'll Build
 
-<iframe width="720" height="405" src="#" frameborder="0"></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/qfXRpkLDZho?rel=0&iv_load_policy=3" frameborder="0"></iframe>
 
 The following 5 videos are from the *Is Flask Right for You?* section:
 

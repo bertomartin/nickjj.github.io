@@ -16,7 +16,7 @@ excerpt:
 </p>
 
 <div class="video-container">
-  <iframe width="720" height="405" src="#" frameborder="0" allowfullscreen></iframe>
+  <iframe width="720" height="405" src="https://www.youtube.com/embed/Q3arEfQ-pno?rel=0&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="center margin-top-md margin-bottom-md">
