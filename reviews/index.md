@@ -431,7 +431,7 @@ excerpt:
     <div class="boxed small margin-bottom-md">
     <span class="testimonial-label dfd">Docker for DevOps</span>
     <em><p>
-      "Took me from knowing no docker to feeling confident to begin deploying my
+      "Took me from knowing no Docker to feeling confident to begin deploying my
       own apps using Docker."
     </p></em>
     <p class="muted margin-bottom-none">- Adam R.</p>
@@ -466,7 +466,7 @@ excerpt:
     <em><p>
       "The course has helped me tremendously in the understanding of Docker,
       through the use of the Flask app. After understanding yaml and the
-      docker-compose files, I went on and applied docker to each of my portfolio
+      docker-compose files, I went on and applied Docker to each of my portfolio
       sites and am completely sold.
     </p>
     <p>All-in-all a very understandable and beginner friendly course to extend
@@ -517,7 +517,7 @@ excerpt:
     <span class="testimonial-label dfd">Docker for DevOps</span>
     <em><p>
       "As an experienced developer I thought it was a great course. I found it helpful
-      to get a good overview of docker and the course had some great working examples.
+      to get a good overview of Docker and the course had some great working examples.
       It even filled some knowledge gaps in some tools I have been using for quite a while."
     </p></em>
     <p class="muted margin-bottom-none">- Jim</p>
@@ -571,7 +571,7 @@ excerpt:
     <span class="testimonial-label dfd">Docker for DevOps</span>
     <em><p>
       "This course is really full of content, it covers a lot of topics around the
-      concepts and tooling to build a web application in docker containers. This course
+      concepts and tooling to build a web application in Docker containers. This course
       is a meaty project, not just some guy reading a web tutorial to you."
     </p></em>
     <p class="muted margin-bottom-none">- Carus K.</p>
