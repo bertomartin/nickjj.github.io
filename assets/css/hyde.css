@@ -805,6 +805,41 @@ a.sidebar-nav-item:focus {
   box-shadow: 0 1px 1px 0 rgba(0,0,0,0.25);
 }
 
+.testimonial-link {
+  color: #515151;
+}
+
+.testimonial-link:hover {
+  text-decoration: none;
+}
+
+.testimonial-link:hover .boxed {
+  border: 1px solid #aaa;
+}
+
+.testimonial-label {
+  display: inline-block;
+  font-weight: bold;
+  padding: 6px;
+  margin-bottom: 12px;
+  border-radius: 12px;
+}
+
+.bsawf {
+  background-color: #ef9d3d;
+  color: #fff;
+}
+
+.sdaws {
+  background-color: #80c2ea;
+  color: #fff;
+}
+
+.dfd {
+  background-color: #293990;
+  color: #fff;
+}
+
 .copyright {
   font-size: 0.6rem;
   color: #bbb;
@@ -901,6 +936,8 @@ input {
 .green {
   background-color: #2ecc71;
   box-shadow: 0px 5px 0px 0px #15B358;
+  -webkit-box-shadow: 0px 5px 0px 0px #15B358;
+  -moz-box-shadow: 0px 5px 0px 0px #15B358;
 }
 
 .green:hover {
@@ -910,6 +947,8 @@ input {
 .red {
   background-color: #e74c3c;
   box-shadow: 0px 5px 0px 0px #CE3323;
+  -webkit-box-shadow: 0px 5px 0px 0px #CE3323;
+  -moz-box-shadow: 0px 5px 0px 0px #CE3323;
 }
 
 .red:hover {
@@ -919,6 +958,8 @@ input {
 .purple {
   background-color: #9b59b6;
   box-shadow: 0px 5px 0px 0px #82409D;
+  -webkit-box-shadow: 0px 5px 0px 0px #82409D;
+  -moz-box-shadow: 0px 5px 0px 0px #82409D;
 }
 
 .purple:hover {
@@ -928,6 +969,8 @@ input {
 .orange {
   background-color: #e67e22;
   box-shadow: 0px 5px 0px 0px #CD6509;
+  -webkit-box-shadow: 0px 5px 0px 0px #CD6509;
+  -moz-box-shadow: 0px 5px 0px 0px #CD6509;
 }
 
 .orange:hover {
@@ -937,6 +980,8 @@ input {
 .yellow {
   background-color: #f1c40f;
   box-shadow: 0px 5px 0px 0px #D8AB00;
+  -webkit-box-shadow: 0px 5px 0px 0px #D8AB00;
+  -moz-box-shadow: 0px 5px 0px 0px #D8AB00;
 }
 
 .yellow:hover {

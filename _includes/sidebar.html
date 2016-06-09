@@ -16,6 +16,7 @@
     <nav class="sidebar-nav">
       {% assign active_page = page.url | downcase | split: '/' %}
       <a class="sidebar-nav-item{% if active_page[1] == 'courses' %} active{% endif %}" href="{{ site.baseurl }}courses">Courses</a>
+      <a class="sidebar-nav-item{% if active_page[1] == 'reviews' %} active{% endif %}" href="{{ site.baseurl }}reviews">Testimonials</a>
       <a class="sidebar-nav-item{% if active_page[3] == 'tutorial' %} active{% endif %}" href="{{ site.baseurl }}blog/tag/tutorial">Tutorials</a>
       <a class="sidebar-nav-item{% if active_page[1] == 'blog' and active_page[3] == nil %} active{% endif %}" href="{{ site.baseurl }}blog">Blog</a>
       <a class="sidebar-nav-item{% if active_page[1] == 'subscribe' %} active{% endif %}" href="{{ site.baseurl }}subscribe">Subscribe</a>
