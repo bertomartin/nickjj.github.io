@@ -63,6 +63,8 @@ your own web applications.**
 
 - Learn how to use Docker to "Dockerize" a web application
 - Learn what Flask is and how to use its features in your applications
+- Learn how to create a Python 2 and 3 compatible code base
+- Learn how to use PostgreSQL, Redis and Celery with Flask
 - Create a full blown user management system
 - Create a flexible custom admin interface
 - Accept both recurring and microtransaction credit card payments
