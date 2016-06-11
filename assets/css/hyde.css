@@ -791,6 +791,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-mugshot {
   border-radius: 20%;
+  display: inline-block;
 }
 
 .sidebar-mugshot-border {
