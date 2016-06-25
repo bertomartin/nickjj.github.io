@@ -877,9 +877,22 @@ a.sidebar-nav-item:focus {
 	height:100%;
 }
 
+.thumbnail {
+  width: 192px;
+  height: 107px;
+}
+
+figure {
+  display: inline-block;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
 input {
   border: 1px solid #ddd;
-  padding: 12px;
+  padding: 16px;
 }
 
 .input {
