@@ -890,6 +890,10 @@ figure {
   margin-right: 12px;
 }
 
+figcaption {
+  display: none;
+}
+
 input {
   border: 1px solid #ddd;
   padding: 16px;
