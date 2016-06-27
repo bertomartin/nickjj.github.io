@@ -119,6 +119,128 @@ excerpt:
         <div class="boxed small margin-bottom-md">
         <span class="testimonial-label sdaws">Scaling Docker on AWS</span>
         <em><p>
+          "Instructions are well suited to understanding the topic."
+        </p></em>
+        <p class="muted margin-bottom-none">- Terrill K.</p>
+        </div>
+      </a>
+    </div>
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/build-a-saas-app-with-flask">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label bsawf">Build a SAAS App with Flask</span>
+        <em><p>
+          "Great course and active instructor who will help troubleshoot with you."
+        </p></em>
+        <p class="muted margin-bottom-none">- B.R.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+    <div class="boxed small margin-bottom-md">
+    <span class="testimonial-label dfd">Docker for DevOps</span>
+    <em><p>
+      "This course is one of those courses that you will watch over again and
+      still -- you learn something new. The instructor is well informed and speaks
+      in a friendly tune. Thank you Nick for all the positive energy you put
+      in while compiling this course."
+    </p></em>
+    <p class="muted margin-bottom-none">- Ihab A.</p>
+    </div>
+  </a>
+
+  <div class="container">
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label dfd">Docker for DevOps</span>
+        <em><p>
+          "Great stuff!"
+        </p></em>
+        <p class="muted margin-bottom-none">- Kushan K.</p>
+        </div>
+      </a>
+    </div>
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/build-a-saas-app-with-flask">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label bsawf">Build a SAAS App with Flask</span>
+        <em><p>
+          "Very good explanations and it's concise."
+        </p></em>
+        <p class="muted margin-bottom-none">- Nicholas L.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+    <div class="boxed small margin-bottom-md">
+    <span class="testimonial-label dfd">Docker for DevOps</span>
+    <em><p>
+      "The instructor keeps the lessons light-hearted and interesting (hes a pretty funny dude),
+      and covers in detail Docker concepts with good practical examples."
+    </p></em>
+    <p class="muted margin-bottom-none">- Louis M.</p>
+    </div>
+  </a>
+
+  <div class="container">
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/build-a-saas-app-with-flask">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label bsawf">Build a SAAS App with Flask</span>
+        <em><p>
+          "Clear and awesome project."
+        </p></em>
+        <p class="muted margin-bottom-none">- Julio M.</p>
+        </div>
+      </a>
+    </div>
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label dfd">Docker for DevOps</span>
+        <em><p>
+          "Thank you for creating very easy to follow lectures."
+        </p></em>
+        <p class="muted margin-bottom-none">- Rayehan K.</p>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+    <div class="boxed small margin-bottom-md">
+    <span class="testimonial-label dfd">Docker for DevOps</span>
+    <em><p>
+      "Awesome. Lots of things to get your head around if you're new to this but
+      it really helps you to develop and deploy stuff with Docker :-)"
+    </p></em>
+    <p class="muted margin-bottom-none">- David S.</p>
+    </div>
+  </a>
+
+  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
+    <div class="boxed small margin-bottom-md">
+    <span class="testimonial-label dfd">Docker for DevOps</span>
+    <em><p>
+      "My first attempt to learn Docker. Terrific course. Incredibly informative
+      and detailed. The walk through of building the app was an incredible learning
+      experience. A dynamic technology and fun too."
+    </p></em>
+    <p class="muted margin-bottom-none">- John V.</p>
+    </div>
+  </a>
+
+  <div class="container">
+    <div class="columns one-half">
+      <a class="testimonial-link" href="{{ site.baseurl}}courses/scaling-docker-on-aws">
+        <div class="boxed small margin-bottom-md">
+        <span class="testimonial-label sdaws">Scaling Docker on AWS</span>
+        <em><p>
           "Great detail and examples."
         </p></em>
         <p class="muted margin-bottom-none">- Steve L.</p>
@@ -147,29 +269,6 @@ excerpt:
       and the provided notes are clear and concise."
     </p></em>
     <p class="muted margin-bottom-none">- Jonathan S.</p>
-    </div>
-  </a>
-
-  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
-    <div class="boxed small margin-bottom-md">
-    <span class="testimonial-label dfd">Docker for DevOps</span>
-    <em><p>
-      "Awesome. Lots of things to get your head around if you're new to this but
-      it really helps you to develop and deploy stuff with Docker :-)"
-    </p></em>
-    <p class="muted margin-bottom-none">- David S.</p>
-    </div>
-  </a>
-
-  <a class="testimonial-link" href="{{ site.baseurl}}courses/docker-for-devops-from-development-to-production">
-    <div class="boxed small margin-bottom-md">
-    <span class="testimonial-label dfd">Docker for DevOps</span>
-    <em><p>
-      "My first attempt to learn Docker. Terrific course. Incredibly informative
-      and detailed. The walk through of building the app was an incredible learning
-      experience. A dynamic technology and fun too."
-    </p></em>
-    <p class="muted margin-bottom-none">- John V.</p>
     </div>
   </a>
 
