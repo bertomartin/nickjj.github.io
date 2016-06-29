@@ -55,7 +55,7 @@ condition which is a plus, especially when it gets packed in.
 
 I stayed at 
 <a target="_blank" href="https://www.airbnb.com/rooms/6636772">this place
-for $45/night</a> at the time of booking it.
+for $37/night</a> at the time of booking it.
 
 <a target="_blank" href="{{ site.baseurl}}galleries/2016-06-boston.html#&gid=1&pid=442">
   ![AirBnB room]({{ site.baseurl}}assets/img/galleries/2016-06-boston/443-everett-massachusetts-airbnb-room.jpg "AirBnB room")
