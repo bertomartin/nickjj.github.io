@@ -1,0 +1,36 @@
+book:
+  name: Book
+bsawf:
+  name: BSAWF
+dev-environment:
+  name: Dev Environment
+devops:
+  name: DevOps
+diy:
+  name: DIY
+docker:
+  name: Docker
+flask:
+  name: Flask
+javascript:
+  name: Javascript
+linux:
+  name: Linux
+music:
+  name: Music
+screencast:
+  name: Screencast
+security:
+  name: Security
+travel:
+  name: Travel
+tutorial:
+  name: Tutorial
+udemy:
+  name: Udemy
+vmware:
+  name: vmware
+webpack:
+  name: Webpack
+workspace:
+  name: Workspace
