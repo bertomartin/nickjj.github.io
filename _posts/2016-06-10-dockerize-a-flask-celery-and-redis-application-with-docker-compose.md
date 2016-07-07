@@ -450,7 +450,7 @@ This file isn't technically part of Docker, but it's used by Docker Compose.
 By default Docker Compose will look for an `.env` file in the same directory
 as your `docker-compose.yml` file.
 
-We can set various environment files here, and you can even add your custom
+We can set various environment variables here, and you can even add your custom
 environment variables here too if your application uses ENV variables.
 
 ```sh
@@ -482,7 +482,7 @@ python               2.7-slim            ...         184 MB
 ```
 
 Docker Compose automatically pulled down Redis and Python for you, and then
-build the website and celery images for you.
+built the website and celery images for you.
 
 #### Docker containers
 
@@ -527,7 +527,7 @@ NETWORK ID          NAME                 DRIVER
 ...                 snakeeyes_default    bridge
 ```
 
-Docker Compose automatically created the network for you. I recommend you
+Docker Compose created the network for you when you ran up. I recommend you
 run `docker network --help` to see what else you can do on your own.
 
 ### Viewing the site
