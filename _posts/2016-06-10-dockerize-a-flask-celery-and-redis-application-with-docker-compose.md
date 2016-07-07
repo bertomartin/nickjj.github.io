@@ -342,10 +342,12 @@ docker build -t snakeeyes_website .
 # Run the Redis image that:
 # 1. Has a Docker container name of snakeeyes_redis.
 # 2. Has a named volume to persist its data.
-# 3. Is a part of the snakeeyes_default network.
-# 4. Overrides the Redis CMD to run Redis with a password.
+# 3. Is a part of the my_dockerized_app network.
+# 4. Maps port 6379 on your work station to port 6379 inside the
+#    Docker container.
+# 5. Overrides the Redis CMD to run Redis with a password.
 docker run --name snakeeyes_redis -v redis:/var/lib/redis/data \
-   --net snakeeyes_default \
+   --net snakeeyes_default -p 6379:6379 \
    redis:3.0-alpine redis-server --requirepass devpassword
 
 # [Terminal tab 2]
