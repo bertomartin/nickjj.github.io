@@ -18,6 +18,8 @@ linux:
   name: Linux
 music:
   name: Music
+ruby-on-rails:
+  name: Ruby on Rails
 screencast:
   name: Screencast
 security:
