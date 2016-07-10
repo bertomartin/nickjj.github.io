@@ -162,7 +162,7 @@ party service such as Loggly.
 In either case, you need to make a small adjustment to your Rails app.
 
 ```ruby
-# app/config/application.rb : Lines 21-24
+# config/application.rb : Lines 21-24
 
 logger           = ActiveSupport::Logger.new(STDOUT)
 logger.formatter = config.log_formatter
