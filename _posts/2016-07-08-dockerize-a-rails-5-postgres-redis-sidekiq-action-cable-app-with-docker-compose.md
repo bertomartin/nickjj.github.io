@@ -111,6 +111,14 @@ I recommend reading the
 [orats README file](https://github.com/nickjj/orats){:target="_blank"} for that.
 This post will cover just the Docker specific side of things.
 
+#### What about existing Rails applications?
+
+This post is very general and you can apply everything you're about to read to
+your own application instead of the orats example application.
+
+Nothing you're about to read is specific to orats at all. You'll just need to
+create a few files since you won't have them beforehand.
+
 ### Install orats
 
 Since you're very likely a Ruby developer, you have Ruby installed on your
