@@ -20,6 +20,8 @@ mindset:
   name: Mindset
 music:
   name: Music
+productivity:
+  name: Productivity
 ruby-on-rails:
   name: Ruby on Rails
 screencast:

@@ -2,7 +2,7 @@
 layout: post
 skip_subscribe: true
 title: "Schedules Aren't a Constraint on Life, They Let You Live It"
-tags: [mindset]
+tags: [mindset, productivity]
 excerpt:
   Become aware of bad habits that make you less productive and learn how to
   break them with proper time management skills.
