@@ -49,7 +49,7 @@ dropping $150 or $350+ on a pair.
 
 ### Sennheiser HD 201
 
-**Price:** $16 
+**Price:** $16  
 **Release date:** April 2005  
 **I used them for:** 4 years
 
