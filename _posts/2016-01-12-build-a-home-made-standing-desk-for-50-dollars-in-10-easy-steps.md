@@ -155,8 +155,8 @@ course you'll want to prop up your monitor(s) to see if your existing cords fit.
 
 I picked up the following supplies from Amazon:
 
-- **$6.49** (1) <a target="_blank" href="http://www.amazon.com/gp/product/B003L1ZYYW">10ft HDMI cable</a>
-- **$6.99** (1) <a target="_blank" href="http://www.amazon.com/Cables-Unlimited-10-Feet-DVI-Cable/dp/B000KZW9WM">10ft DVI-D M to M cable</a>
+- **$5.99** (1) <a target="_blank" href="https://www.amazon.com/gp/product/B003L1ZYYW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=nickjanetakis-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B003L1ZYYW&linkId=c0e01645769de66520b75b1e6233a7d1">10ft HDMI cable</a>
+- **$8.95** (1) <a target="_blank" href="https://www.amazon.com/gp/product/B01INIQGWG/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=nickjanetakis-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01INIQGWG&linkId=bf0cacc6ad1c95dcb7d849504552818d">10ft DVI-D M to M cable</a>
 
 If you have wired devices then you may have some issues with wire management too
 when it comes to your keyboard and mouse. Of course this will depend on your
@@ -165,4 +165,4 @@ cables.
 
 I personally grabbed 2 of these from Amazon:
 
-- **$5.00** (2) <a target="_blank" href="http://www.amazon.com/AmazonBasics-Extension-Cable--Male--Female/dp/B00NH136GE">6.5ft USB extension cable</a>
+- **$5.49** (2) <a target="_blank" href="https://www.amazon.com/gp/product/B00NH136GE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=nickjanetakis-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00NH136GE&linkId=f61c6572f306c82c1e7a934eb4b66d60">6.5ft USB extension cable</a>

@@ -49,7 +49,7 @@ dropping $150 or $350+ on a pair.
 
 ### Sennheiser HD 201
 
-**Price:** $20  
+**Price:** $16 
 **Release date:** April 2005  
 **I used them for:** 4 years
 
@@ -62,7 +62,7 @@ They felt great from the moment I put them on.
 
 #### Amazon link:
 
-<a target="_blank" href="http://www.amazon.com/Sennheiser-201-Lightweight-Over-Headphones/dp/B0007XJSQC">http://www.amazon.com/Sennheiser-201-Lightweight-Over-Headphones/dp/B0007XJSQC</a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0007XJSQC/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=nickjanetakis-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0007XJSQC&linkId=adc98f5ba01c1c4b68350e078908d39d">http://www.amazon.com/Sennheiser-201-Lightweight-Over-Headphones/dp/B0007XJSQC</a>
 
 ### Sennheiser HD 202 II
 
@@ -83,7 +83,7 @@ the 201s were never remotely close to this uncomfortable.
 
 #### Amazon link:
 
-<a target="_blank" href="http://www.amazon.com/Sennheiser-202-Professional-Headphones-Black/dp/B003LPTAYI">http://www.amazon.com/Sennheiser-202-Professional-Headphones-Black/dp/B003LPTAYI</a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B003LPTAYI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=nickjanetakis-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B003LPTAYI&linkId=5a36fe03616496b27c44c7bf21741df1">http://www.amazon.com/Sennheiser-202-Professional-Headphones-Black/dp/B003LPTAYI</a>
 
 ### Bottom line comparison
 
