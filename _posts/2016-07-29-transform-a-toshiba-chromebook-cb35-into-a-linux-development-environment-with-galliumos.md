@@ -156,11 +156,12 @@ The next section will explain why I chose the Toshiba Chromebook 2 CB35 (2015).
 
 ![Toshiba Chromebook 2 CB35 (2015)]({{ site.baseurl}}assets/img/blog/toshiba-chromebook-2-cb35-2015.jpg "Toshiba Chromebook 2 CB35 (2015)")
 
-First, let's go over its specs:
+First, let's go over its main specs:
 
 - 1.7 GHz Celeron 3215U (or an i3 for $45 more)
 - 4GB of RAM
 - 13.3" 1920x1080 IPS display (165 PPI)
+- Full size SD card
 - 2.9 pounds
 
 I don't know about you, but having used an i5 3.2GHz workstation I was skeptical
@@ -176,7 +177,7 @@ enough then I'd return it and try the i3. Spoiler alert: the 3215U is awesome!
 #### Testing out a realistic work load
 
 Since I'm a developer and you're probably a developer or into tech at the very
-least, let me tell you what I've ran on it to test the performance:
+least, let me tell you what I've run on it to test the performance:
 
 - Google Chrome with 6 tabs open
 - Youtube playing back a video (streaming music is important!)
