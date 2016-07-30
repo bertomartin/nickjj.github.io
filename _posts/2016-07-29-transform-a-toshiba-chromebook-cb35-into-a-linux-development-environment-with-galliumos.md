@@ -290,7 +290,7 @@ components before purchasing it but I'm pleasantly surprised at the outcome.
 #### What type of ports does it have?
 
 It has 1x USB 3.0 port and 2x USB 2.0 ports along with a proper 3.5mm headphone
-jack and an HDMI port. That's good enough for me.
+jack and an HDMI port. It also packs a full size SD slot. That's good enough for me.
 
 It's missing a USB-c port which kind of stinks but it's not a deal breaker.
 
