@@ -485,8 +485,16 @@ If your battery ever drains to 0% then a certain firmware setting will be
 forgotten and it will prevent your Chromebook from being able to boot into
 GalliumOS.
 
-This isn't a permanent issue, so don't freak out if you ever hit 0%, however
-do understand that you will need perform a few steps to fix the issue.
+You might be thinking, *"omg that's horrible"* and it kind of is but there's 2
+things to understand first:
+
+Firstly, there's multiple stages of 0%. This firmware setting will only get lost
+when the battery is completely drained. This might be a full day or 2 after the
+charger shows 0%. Think of it like your car's gas tank running on empty for a
+while.
+
+Secondly, it's not a permanent issue, so don't freak out if you ever fully drain
+to 0%, however do understand that you will need perform a few steps to fix the issue.
 
 Fortunately it doesn't take long and since you should rarely hit 0%, you won't
 have to worry about it too often. To fix the issue:
